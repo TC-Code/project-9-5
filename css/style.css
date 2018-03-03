@@ -1,0 +1,17 @@
+.content {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+      justify-content: center;
+}
+
+.button {
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 18px;
+  color: #ffffff;
+  background-color: #486ea8;
+  box-shadow: 0 8px 16px #757575;
+}
+/*# sourceMappingURL=style.css.map */
